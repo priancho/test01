@@ -2,3 +2,4 @@ Hello! GitHub
 Gitの操作方法似ついて学んでいます。
 二番目の修正。
 branch_aで作業してみた。
+branch_aの作業が完了しました。

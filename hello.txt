@@ -1,2 +1,3 @@
-Hello! git
+Hello! GitHub
 Gitの操作方法似ついて学んでいます。
+二番目の修正。
